@@ -31,10 +31,6 @@ We will use a publicly available Airbnb Dataset from Kaggle
 #### **Key Variables**
 - Location 
 
-
-#### **Data Source**
-Publicly available Airbnb datasets and third-party rental market data.
-
 #### **Processing**
 The dataset will be cleaned and normalized to ensure consistency, removing missing values and duplicates.
 
