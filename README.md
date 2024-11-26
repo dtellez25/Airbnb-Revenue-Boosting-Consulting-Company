@@ -52,7 +52,7 @@ We will use **QlikSense**, a powerful business intelligence tool, to visualize a
 Our ultimate objective is to offer Airbnb hosts a data-driven visualization tool that simplifies decision-making, maximizes revenue, and enhances their rankings on the platform. By providing actionable insights into pricing, rankings, and guest preferences, we empower hosts to remain competitive and profitable in a dynamic short-term rental market.  
 
 ### **Potential Outcomes**
-- Revenue increases of 15% within six months by implementing optimized pricing strategies.  
+- Revenue increases within six months by implementing optimized pricing strategies.  
 - Higher guest satisfaction through targeted amenities.  
 - Enhanced visibility on Airbnb's platform, leading to increased bookings and repeat stays.  
 
